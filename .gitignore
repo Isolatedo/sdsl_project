@@ -1,0 +1,10 @@
+postdata
+__pycache__
+Segmentation/EVAL_WSI_1GPU/*
+Segmentation/javabridge-1.0.19/*
+Segmentation/run/jcai_region/*
+Segmentation/resnet101-5d3b4d8f.pth
+WSI_DATA/*
+WSI_DATA2
+WSI_DATA3
+post_data/*
